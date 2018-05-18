@@ -1,0 +1,2 @@
+print(count, worst, count/worst, end-start, max_cov)
+11572 29760 0.3888440860215054 5.891146898269653 22
